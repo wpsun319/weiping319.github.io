@@ -7,7 +7,7 @@ I am currently working as a postdoc research fellow in [Nanyang Technological Un
 - Lab: [WANDS@NTU](http://wands.sg)
 
 ### Education 
-- PhD from [Seoul National University (SNU)](en.snu.ac.kr) in Feb. 2017
+- PhD from [Seoul National University (SNU)](https://en.snu.ac.kr/) in Feb. 2017
   - Major: Electrical Engineering and Computer Science
   - Advisor: Prof. [Sunghyun Choi](http://www.mwnl.snu.ac.kr/~schoi/) 
 - BS from [Dalian University of Technology (DUT)](http://en.dlut.edu.cn/) in Sep. 2010
