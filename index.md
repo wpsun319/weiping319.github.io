@@ -1,15 +1,16 @@
 # Weiping Sun
 
-I am currently working as a postdoc research fellow in NTU, Singapore under the supervision of Prof. [Mo Li](https://www.ntu.edu.sg/home/limo/)
+I am currently working as a postdoc research fellow in [Nanyang Technological University (NTU)](http://www.ntu.edu.sg/Pages/home.aspx), Singapore under the supervision of Prof. [Mo Li](https://www.ntu.edu.sg/home/limo/)
 
 ### Contact
 - Email: wpsun@ntu.edu.sg
+- Lab: [WANDS@NTU](wands.sg)
 
 ### Education 
-- Ph.D. from [Seoul National University](en.snu.ac.kr) in Feb. 2017
+- PhD from [Seoul National University (SNU)](en.snu.ac.kr) in Feb. 2017
   - Major: Electrical Engineering and Computer Science
   - Advisor: Prof. [Sunghyun Choi](http://www.mwnl.snu.ac.kr/~schoi/) 
-- BS from [Dalian University of Technology](http://en.dlut.edu.cn/) in Sep. 2010
+- BS from [Dalian University of Technology (DUT)](http://en.dlut.edu.cn/) in Sep. 2010
   - Major: Network Engineering
   - Advisor: Prof. [Lei Wang](https://scholar.google.com/citations?user=4Jr8AHQAAAAJ&hl=en)
 
