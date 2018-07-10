@@ -1,6 +1,9 @@
-## Welcome to GitHub Pages
+# Weiping Sun
 
-You can use the [editor on GitHub](https://github.com/weiping319/weiping319.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+
+### Ph.D. from [Seoul National University](en.snu.ac.kr) in Feb. 2017.
+### Ph.D. from [Seoul National University](en.snu.ac.kr) in Feb. 2017.
+- Advisor: Prof. [Sunghyun Choi](http://www.mwnl.snu.ac.kr/~schoi/) 
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
