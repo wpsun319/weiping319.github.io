@@ -34,9 +34,6 @@ I am currently working as a postdoc research fellow in [Nanyang Technological Un
 13. Yuanfang Chen, Mingchu Li, Lei Wang, Zhuxiu Yuan, Weiping Sun, Chunsheng Zhu, Ming Zhu, and Lei Shu, "A Proportional Fair Backoff Scheme for Wireless Sensor Networks," _IEEE MASS 2009_, Macau, Oct. 12, 2009.
 14. Zhuxiu Yuan, Cuiyao Xue, Weiping Sun, Yuanfang Chen, Lei Wang, and Lei Shu, "A Backoff Copying Scheme for Contention Resolution in Wireless Sensor Networks," _ACM WiNTECH 2009_, Beijing, China, Sep. 21, 2009.
 
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
 ### Awards
 - Most cited paper award, Seoul National University, Nov. 2017
 - Student travel grant, IEEE INFOCOM 2016
