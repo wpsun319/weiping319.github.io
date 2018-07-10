@@ -4,7 +4,7 @@ I am currently working as a postdoc research fellow in [Nanyang Technological Un
 
 ### Contact
 - Email: wpsun@ntu.edu.sg
-- Lab: [WANDS@NTU](wands.sg)
+- Lab: [WANDS@NTU](http://wands.sg)
 
 ### Education 
 - PhD from [Seoul National University (SNU)](en.snu.ac.kr) in Feb. 2017
