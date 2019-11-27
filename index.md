@@ -9,7 +9,7 @@ I am currently working as a postdoc research fellow in [Nanyang Technological Un
 ### Education 
 - PhD from [Seoul National University (SNU)](https://en.snu.ac.kr/) in Feb. 2017
   - Major: Electrical Engineering and Computer Science
-  - Advisor: Prof. [Sunghyun Choi](http://www.mwnl.snu.ac.kr/~schoi/) 
+  - Advisor: Dr. [Sunghyun Choi](http://www.mwnl.snu.ac.kr/~schoi/) (currently SVP of Samsung Research)
 - BS from [Dalian University of Technology (DUT)](http://en.dlut.edu.cn/) in Sep. 2010
   - Major: Network Engineering
   - Advisor: Prof. [Lei Wang](https://scholar.google.com/citations?user=4Jr8AHQAAAAJ&hl=en)
