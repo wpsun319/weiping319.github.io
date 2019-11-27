@@ -1,6 +1,6 @@
 # Weiping Sun
 
-I am currently working as a postdoc research fellow in [Nanyang Technological University (NTU)](http://www.ntu.edu.sg/Pages/home.aspx), Singapore under the supervision of Prof. [Mo Li](https://www.ntu.edu.sg/home/limo/)
+I am a postdoc research fellow in [NTU](http://www.ntu.edu.sg/Pages/home.aspx), Singapore, working with Prof. [Mo Li](https://www.ntu.edu.sg/home/limo/)
 
 ### Contact
 - Email: wpsun@ntu.edu.sg
@@ -8,16 +8,14 @@ I am currently working as a postdoc research fellow in [Nanyang Technological Un
 
 ### Education 
 - PhD from [Seoul National University (SNU)](https://en.snu.ac.kr/) in Feb. 2017
-  - Major: Electrical Engineering and Computer Science
-  - Advisor: Dr. [Sunghyun Choi](http://www.mwnl.snu.ac.kr/~schoi/) (currently SVP of Samsung Research)
+  - Advisor: Dr. [Sunghyun Choi](http://www.mwnl.snu.ac.kr/~schoi/) (currently Senior Vice President of Samsung Research)
 - BS from [Dalian University of Technology (DUT)](http://en.dlut.edu.cn/) in Sep. 2010
-  - Major: Network Engineering
   - Advisor: Prof. [Lei Wang](https://scholar.google.com/citations?user=4Jr8AHQAAAAJ&hl=en)
 
 ### Research Interests
-- MAC/PHY enhancement of Wi-Fi, Bluetooth, BLE
-- Wi-Fi based human sensing 
-
+-Wi-Fi CSI based passive sensing  
+-MAC/PHY enhancement of Wi-Fi, Bluetooth, BLE
+ 
 ### Publications (in the order from the most recent)
 1. **[IEEE SECON]** Kangjin Yoon, Weiping Sun, and Sunghyun Choi, "COALA: Collision-Aware Link Adaptation for LTE in Unlicensed Band," _IEEE SECON 2018_, Hong Kong, June 11-13, 2018. (Acceptance ratio: 23.2% = 49/211)
 2. **[IEEE SECON]** Juheon Yi, Weiping Sun, Jonghoe Koo, Seongho Byeon, Jaehyuk Choi, and Sunghyun Choi, "BlueScan: Boosting Wi-Fi Scanning Efficiency Using Bluetooth Radio," _IEEE SECON 2018_, Hong Kong, June 11-13, 2018. (Acceptance ratio: 23.2% = 49/211)
@@ -44,6 +42,6 @@ I am currently working as a postdoc research fellow in [Nanyang Technological Un
 - Reviewer
   - VTC, Comm. Letters, Wireless Comm. Magazine, Adhoc and Sensor Wireless Networks, Computer Networks
 - Organizing Committee
-  - TPC member: IEEE VTC 2018-Spring, IEEE DySPAN 2018
+  - TPC member: IEEE VTC 2018, IEEE DySPAN 2018, IEEE DySPAN 2019, IEEE WCNC 2019, ICOIN 2020, IEEE WCNC 2020  
   - Publicity Co-Chair: SNCC 2016
   
