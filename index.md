@@ -1,10 +1,8 @@
 # Weiping Sun
 
-I am a postdoc research fellow in [NTU](http://www.ntu.edu.sg/Pages/home.aspx), Singapore, working with Prof. [Mo Li](https://www.ntu.edu.sg/home/limo/)
-
+I am a Staff Engineer in [Samsung Research](http://research.samsung.com), Seoul, S. Korea
 ### Contact
-- Email: wpsun@ntu.edu.sg
-- Lab: [WANDS@NTU](http://wands.sg)
+- Email: wpsun319@gmail.com
 
 ### Education 
 - PhD from [Seoul National University (SNU)](https://en.snu.ac.kr/) in Feb. 2017
@@ -13,6 +11,7 @@ I am a postdoc research fellow in [NTU](http://www.ntu.edu.sg/Pages/home.aspx), 
   - Advisor: Prof. [Lei Wang](https://scholar.google.com/citations?user=4Jr8AHQAAAAJ&hl=en)
 
 ### Research Interests
+-4G/5G/6G networks
 -Wi-Fi CSI based passive sensing  
 -MAC/PHY enhancement of Wi-Fi, Bluetooth, BLE
  
